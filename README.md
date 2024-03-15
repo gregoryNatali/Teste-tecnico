@@ -54,4 +54,4 @@ Este projeto é parte de um teste de desenvolvimento para uma plataforma de com�
 
 ## Autor
 
-[Seu nome ou informações de contato]
+Gregory
