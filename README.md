@@ -54,4 +54,4 @@ Este projeto √© parte de um teste de desenvolvimento para uma plataforma de com√
 
 ## Autor
 
-Gregory
+Gregory Natali
